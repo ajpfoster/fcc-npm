@@ -1,5 +1,9 @@
 {
-	"author": "Ash Foster",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
+	"version": "0.0.0-development",
+	"author": "Fu Bar",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
